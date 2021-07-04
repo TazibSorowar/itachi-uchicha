@@ -1,0 +1,66 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+h2{
+    background-color: #707070;
+    background-size: 1920px;
+    color: white;
+    font-size: 45px;
+    padding-left: 5px;
+    padding-bottom: 8px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.body-1{
+    display: flex;
+}
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 150px;
+}
+.cloud{
+    color: #C54545;
+}
+h3{
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+h4{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 60px;
+
+}
+.half-width-text{
+    width: 50%;
+    padding-left: 9%;
+    padding-top: 0%;
+}
+.half-width-img{
+    height: 90%;
+    padding-left: 5%;
+}
+p{
+    font-size: 25px;
+}
+.button{
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(90, 20, 20), #C54545);
+    text-decoration: none;
+    padding: 7px 17px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.body-1{
+    background-image: url(img/bg03.png);
+    background-repeat: no-repeat;
+}
