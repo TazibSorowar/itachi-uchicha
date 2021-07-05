@@ -110,4 +110,43 @@ section{
     padding-top: 120px;
     padding-left: 7%;
 }
+.b-3p{
+    margin-left: 7%;
+    margin-bottom: 7%;
+}
+.p3{
+    display: flex;
     
+}
+.p3-1{
+    width: 30%;
+    background-color: white;
+    margin-left:7%;
+    margin-top: 0;
+    margin-bottom: 7%;
+    margin-right: 7%;
+    padding-top: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5px;
+    box-shadow: 10px 15px 30px gray; 
+}
+#box-3{
+    border-width: 7px;
+  border-style: solid;
+  border-image: 
+    linear-gradient(
+      #C54545, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
+#box-2{
+    border-left: 7px solid #C54545;   
+}
+#box-1{
+    border-left:7px solid #C54545 ;
+}
+footer p{
+    text-align: center;
+    font-size: 70%;
+}
