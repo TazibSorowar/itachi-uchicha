@@ -4,6 +4,7 @@ body{
     background-image: url(img/bg04.png);
     background-repeat: no-repeat;
     background-position: 0px 610px;
+    
 }
 h2{
     background-color: #C54545;
@@ -149,4 +150,11 @@ section{
 footer p{
     text-align: center;
     font-size: 70%;
+}
+.bg-img{
+    background-image: url(img/bg01.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 0;
+    background-position-x: 0px;
 }
